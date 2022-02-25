@@ -14,3 +14,7 @@
     console.log("8");
     console.log("10");
 }
+
+/*
+ O JS é organizado em sentenças de código que podem ou não terminar com ponto e vírgula, também organizado em blocos de códigos delimitados por chaves.
+*/
