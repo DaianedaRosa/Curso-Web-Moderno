@@ -7,9 +7,7 @@ console.log(precoComDesconto)
 
 let nome = " Caderno "; // String (Texto) -> sequência de símbolos 
 let categoria = "Papelaria";
-console.log("Produto: " + 
+console.log("Produto: " + nome
  +", Categoria: " + categoria
  + ", Preço: " + preco
  +", Desconto: " + desconto);
-
- 
