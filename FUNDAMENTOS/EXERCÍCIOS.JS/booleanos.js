@@ -28,4 +28,4 @@ console.log('pra finalizar...')
 console.log(('' || null || 0 || '' || 123)) // retornará o que é verdadeiro
 
 let nome = ''
-console.log(nome || 'Desconhecido')
+console.log(nome || 'Desconhecido') 
